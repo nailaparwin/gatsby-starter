@@ -1,1 +1,1 @@
-add new data by gatsby
+add new data by gatsby app
